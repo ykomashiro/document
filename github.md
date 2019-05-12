@@ -11,7 +11,7 @@
 ## 推送到github仓库
 
 ```git
-git add.
+git add .
 git commit -m "commit"
 git push -u origin master
 ```
